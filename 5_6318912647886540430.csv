@@ -1,0 +1,4 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+40.66.63.160,80,false,CDG,Europe,Paris,281 ms,5440 kB/s
+20.81.104.97,80,false,IAD,North America,Ashburn,284 ms,3170 kB/s
+20.119.73.200,80,false,IAD,North America,Ashburn,288 ms,1502 kB/s

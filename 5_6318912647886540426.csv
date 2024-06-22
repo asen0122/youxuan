@@ -1,0 +1,7 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.230.34.30,80,false,NRT,Asia Pacific,Tokyo,75 ms,13636 kB/s
+52.57.229.96,80,false,FRA,Europe,Frankfurt,187 ms,5974 kB/s
+13.124.44.168,80,false,ICN,Asia Pacific,Seoul,108 ms,1448 kB/s
+13.126.254.121,80,false,BOM,Asia Pacific,Mumbai,309 ms,713 kB/s
+54.233.145.43,80,false,GIG,South America,Rio de Janeiro,360 ms,589 kB/s
+54.194.162.247,80,false,DUB,Europe,Dublin,224 ms,453 kB/s
